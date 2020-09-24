@@ -10,6 +10,7 @@ This is a sample of readme file for my project, which have build up using the ht
 ## Author name
 Am osbone ogega, a student at moringa school, slot mpft32 learning for software development course.
 ### link
-This is my active link:https://github.com/osborne2020/my-first-website.git.
+This is my active link:https://osborne2020.github.io/my-first-website/
+
 ### Licenses
 All rights are preserved under this file.
