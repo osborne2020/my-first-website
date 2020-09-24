@@ -38,3 +38,16 @@ ul li {
     text-align: center;
     padding: 0px;
 }
+
+@media screen and (min-width:480px) {
+    body {
+        background-color: lightcoral;
+        color: black;
+    }
+}
+
+@media screen and (min-width:760px) {
+    body {
+        background-color: lightsalmon;
+    }
+}
